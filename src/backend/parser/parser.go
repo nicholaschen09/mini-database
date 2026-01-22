@@ -1,8 +1,3 @@
-import (
-	"errors"
-	"io"
-	"strings"
-	"context"
-)
+package parser
 
 func parser()
