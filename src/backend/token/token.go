@@ -115,4 +115,9 @@ const (
 	additional_end
 )
 
-type struct tokenizer
+type Token struct {
+	Type   TokenType
+	Value  string
+	Line   int
+	Column int
+}
