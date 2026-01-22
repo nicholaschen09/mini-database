@@ -114,3 +114,5 @@ const (
 	TILDE
 	additional_end
 )
+
+type struct tokenizer
