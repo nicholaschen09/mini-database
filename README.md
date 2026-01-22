@@ -1,0 +1,1 @@
+i wanted to try creating a smaller version of a production database in go without ai
